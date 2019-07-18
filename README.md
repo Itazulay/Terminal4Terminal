@@ -9,9 +9,9 @@ ZenHub for Agile Management:
 https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd
 
 
-https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools
-
 Tools:
+
+https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools
 
 
 Visual Studio 2019 - 
